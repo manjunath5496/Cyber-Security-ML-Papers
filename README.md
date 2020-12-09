@@ -54,4 +54,26 @@ On Using Machine Learning For Network Intrusion Detection</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(25).pdf" style="text-decoration:none;">A state‑of‑the‑art survey of malware detection approaches using data mining techniques</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(26).pdf" style="text-decoration:none;">Dimension Reduction in Network Attacks Detection Systems</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(27).pdf" style="text-decoration:none;">A Survey of Deep Learning Methods for Cyber Security</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(28).pdf" style="text-decoration:none;">Machine Learning and Cyber Security</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(29).pdf" style="text-decoration:none;">On the Effectiveness of
+Machine and Deep Learning for Cyber Security</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(30).pdf" style="text-decoration:none;">A Study of Cyber Security using Machine Learning Techniques</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(31).pdf" style="text-decoration:none;">Machine Learning for Cyber Defense and Attack</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(32).pdf" style="text-decoration:none;">
+Machine Learning Algorithms in Cyber Security</a></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
