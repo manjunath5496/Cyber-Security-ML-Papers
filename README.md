@@ -69,7 +69,19 @@ Machine and Deep Learning for Cyber Security</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(32).pdf" style="text-decoration:none;">
 Machine Learning Algorithms in Cyber Security</a></li> 
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(33).pdf" style="text-decoration:none;">Deep Reinforcement Learning for Cyber Security</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(34).pdf" style="text-decoration:none;">A short review on Applications of Deep learning for Cyber security</a></li> 
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(35).pdf" style="text-decoration:none;">Generations of Machine
+Learning in Cybersecurity</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(36).pdf" style="text-decoration:none;">A User-centric Machine Learning Framework For Cybersecurity Operations Center</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(37).pdf" style="text-decoration:none;">The Rise Of
+Machine Learning In Cybersecurity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cyber-Security-ML-Papers/blob/master/cyb(38).pdf" style="text-decoration:none;">SoK: Security and Privacy in Machine Learning</a></li>
+
  
  
  
